@@ -1,6 +1,6 @@
 # web_dev_first_professional_login-page
 My First repository 
-Tried to Practice HTML & CSS by Design a Login Page 
+Tried to Practice HTML & CSS by Designing a Login Page 
 
 1) this is how it will look
 
